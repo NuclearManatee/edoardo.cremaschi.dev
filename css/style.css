@@ -1,0 +1,12 @@
+/** root will define color palette **/
+root {
+  --primary-color: red;
+  --secondary-color: blue;
+  --tertiary-color: green;
+  --background-dark: black;
+  --background-light: white;
+}
+
+body {
+  font-variant: small-caps;
+}
